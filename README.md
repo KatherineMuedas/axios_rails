@@ -1,6 +1,6 @@
 # AxiosRails
 
-Do you like [Axios](https://github.com/mzabriskie/axios)? Now is ready to use it in your Rails apps.
+Do you like [Axios](https://github.com/mzabriskie/axios)? Now it is ready to use it in your Rails apps.
 
 ##Version
 
@@ -22,9 +22,9 @@ Or install it yourself as:
 
     $ gem install axios_rails
 
-Add it to your JavaScript manifest file, in this order:
+Add it to your JavaScript manifest file:
 
- //= require axios
+    //= require axios
 
 ## Development
 
@@ -34,7 +34,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/axios_rails. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/katherineMuedas/axios_rails. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
 
 
 ## License
