@@ -4,7 +4,7 @@ Do you like [Axios](https://github.com/mzabriskie/axios)? Now it is ready to use
 
 ##Version
 
-The latest version of this gem bundles axios v0.7.0.
+The latest version of this gem bundles axios v0.14.0.
 
 ## Installation
 
@@ -34,4 +34,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/kather
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
